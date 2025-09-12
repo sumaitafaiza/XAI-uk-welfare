@@ -1,0 +1,1 @@
+Machine learning models (Logistic Regression, Random Forest, XGBoost) were trained on the UCI Adult Census Income dataset (~49k records, 14 features). SHAP was applied for model interpretability, with fairness metrics (DI, SP, PPV, TPR) used to audit bias. Statistical tests (t-tests, ANOVA) validated performance differences. Includes a Streamlit demo for deployment exploration.

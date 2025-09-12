@@ -1,0 +1,13 @@
+{
+  "model_path": "models/xgboost_tuned.pkl",
+  "threshold": 0.64,
+  "metrics": {
+    "roc_auc": 0.9251896967716264,
+    "pr_ap": 0.8195539523020818,
+    "brier": 0.11304750532635596,
+    "best_f1": 0.7180446439705699,
+    "best_precision": 0.6899113347711479,
+    "best_recall": 0.7485699427977119,
+    "best_accuracy": 0.8611264664332657
+  }
+}

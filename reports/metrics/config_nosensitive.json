@@ -1,0 +1,5 @@
+{
+  "model_path": "models/xgboost_nosensitive.pkl",
+  "threshold": 0.63,
+  "note": "XGB retrained without sex and race"
+}
